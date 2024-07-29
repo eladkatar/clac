@@ -1,0 +1,20 @@
+button {
+     background-color: darkgreen;
+    width: 50px;
+    height: 50px;
+    color: white;
+    font-size: xx-larges;
+   
+}
+ 
+p{ 
+width: 150px; ;
+height: 50px;
+border: 2px  solid #ffffff;
+
+}
+
+
+.cont{ 
+    display: flex;
+}
